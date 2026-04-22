@@ -125,6 +125,11 @@ See [DEPLOYMENT_GUIDE.md](./DEPLOYMENT_GUIDE.md) for detailed environment variab
 - View admission requirements
 - Explore career prospects
 
+
+📚 **Online Complete Mock Entry test Practice.**
+- Entry tests of different universities.
+- Student and practice and find there weakness
+
 👤 **Personal Dashboard**
 - Track your university search
 - Save universities and programs
