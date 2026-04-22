@@ -1,8 +1,8 @@
-# 🎓 GB Career Pilot - AI-Powered University Counseling Platform
+# 🎓 NorthStar - AI-Powered University Counseling Platform
 
 <div align="center">
 
-![GB Career Pilot](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)
+![NorthStar](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Dual%20License-blue?style=for-the-badge)
 ![Contributors](https://img.shields.io/badge/Contributors-Welcome-orange?style=for-the-badge)
 ![Students](https://img.shields.io/badge/Made%20By-Students-purple?style=for-the-badge)
@@ -15,9 +15,9 @@
 
 ---
 
-## 🌟 What is GB Career Pilot?
+## 🌟 What is NorthStar?
 
-**GB Career Pilot** is an open-source, AI-powered university counseling platform designed to help Pakistani students make informed decisions about their academic future. Using cutting-edge AI technology, we provide:
+**NorthStar** is an open-source, AI-powered university counseling platform designed to help Pakistani students make informed decisions about their academic future. Using cutting-edge AI technology, we provide:
 
 ✨ **Intelligent Career Counseling** - Chat with an AI counselor 24/7  
 🎓 **Comprehensive University Database** - Search and compare Pakistani universities  
@@ -389,11 +389,11 @@ Interested in sponsoring? Contact: raqeebraees23@gmail.com
 
 ## 📄 Citation
 
-If you use GB Career Pilot in your research or project, please cite:
+If you use NorthStar in your research or project, please cite:
 
 ```bibtex
 @software{gb_career_pilot_2026,
-  title = {GB Career Pilot: AI-Powered University Counseling Platform},
+  title = {NorthStar: AI-Powered University Counseling Platform},
   author = {Feel and Support Organization},
   year = {2026},
   url = {https://github.com/FeelAndSupport/gb-career-pilot}
@@ -422,7 +422,7 @@ If you use GB Career Pilot in your research or project, please cite:
 
 ---
 
-**GB Career Pilot** - Empowering Pakistani Students with AI 🚀
+**NorthStar** - Empowering Pakistani Students with AI 🚀
 
 *Licensed under Dual-License | Copyright © 2026 Feel and Support*
 
