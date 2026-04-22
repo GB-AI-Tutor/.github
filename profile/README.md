@@ -9,7 +9,7 @@
 
 **Empowering Pakistani Students with AI-Powered Career Guidance**
 
-[Live Demo](https://raqeebs.app) • [Documentation](./PROJECT_STATUS_COMPLETE.md) • [Roadmap](./ROADMAP.md) • [Contributing](./CONTRIBUTING.md) • [Discord](#)
+[Live Demo](https://north-stars.app) • [Documentation](./PROJECT_STATUS_COMPLETE.md) • [Roadmap](./ROADMAP.md) • [Contributing](./CONTRIBUTING.md) • [Discord](#)
 
 </div>
 
@@ -32,7 +32,7 @@
 
 ### Try It Live
 
-**🌐 Visit:** [https://raqeebs.app](https://raqeebs.app)
+**🌐 Visit:** [https://north-stars.app](https://north-stars.app)
 
 No installation needed! Create an account and start exploring.
 
