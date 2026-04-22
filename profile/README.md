@@ -1,4 +1,4 @@
-# 🎓 NorthStar - AI-Powered University Counseling Platform
+# 🎓 NorthStar - AI-Powered Educational Guidance Platform
 
 <div align="center">
 
